@@ -9,8 +9,10 @@ The purpose of this project was to analyze temperature data for the months of Ju
 1. June has an average temperature of 74.94.
 ![June](June_temps.png)
 
+
 2. December has an average temperature of 71.04.
 ![Dec](December_temps.png)
+
 
 3. The biggest difference between June and December is the minimum temperature.
 
